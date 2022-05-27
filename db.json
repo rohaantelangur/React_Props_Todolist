@@ -1,0 +1,40 @@
+{
+  "todos": [
+    {
+      "iscomplate": true,
+      "fevrate": true,
+      "value": "DSA",
+      "id": 1
+    },
+    {
+      "iscomplate": false,
+      "fevrate": false,
+      "value": "React",
+      "id": 2
+    },
+    {
+      "iscomplate": false,
+      "fevrate": false,
+      "value": "JavaScripts",
+      "id": 3
+    },
+    {
+      "iscomplate": false,
+      "fevrate": false,
+      "value": "HTML",
+      "id": 4
+    },
+    {
+      "iscomplate": false,
+      "fevrate": false,
+      "value": "Node js",
+      "id": 5
+    },
+    {
+      "iscomplate": false,
+      "fevrate": false,
+      "value": "CSS",
+      "id": 6
+    }
+  ]
+}
