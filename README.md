@@ -1,8 +1,10 @@
 # Getting Started with Create React App
 
 ## Sample Image:
-![Screenshot (56)](https://user-images.githubusercontent.com/94789421/170644123-9ee1ae41-5aa0-4a67-83c2-cf860092e5fb.png)
 Create todo list using Pagination in url handled using useEffect and GET data from json-server.
+
+![Screenshot (56)](https://user-images.githubusercontent.com/94789421/170644123-9ee1ae41-5aa0-4a67-83c2-cf860092e5fb.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
